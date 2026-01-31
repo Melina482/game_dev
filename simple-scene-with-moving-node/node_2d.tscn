@@ -1,0 +1,22 @@
+[gd_scene load_steps=3 format=3 uid="uid://fwcu3si8t1t1"]
+
+[ext_resource type="Texture2D" uid="uid://hk2cess5kn1p" path="res://icon.svg" id="1_wtcfe"]
+[ext_resource type="Script" uid="uid://bapik57afrrol" path="res://icon.gd" id="2_0e48y"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="RichTextLabel" type="RichTextLabel" parent="Camera2D"]
+offset_left = -80.0
+offset_top = -249.0
+offset_right = 97.0
+offset_bottom = -186.0
+theme_override_font_sizes/normal_font_size = 30
+text = "Hello World"
+tab_size = 8
+
+[node name="Icon" type="Sprite2D" parent="Camera2D"]
+position = Vector2(1, -2)
+texture = ExtResource("1_wtcfe")
+script = ExtResource("2_0e48y")
