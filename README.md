@@ -11,3 +11,6 @@ All of my game development activities.
    - A simple parkour game showing basic physic movements with respawn functionality when falling off.
    
    ![alt text](image.png)
+
+3. Level Design
+   - A simple level concept (level 2 max) game where traps, shooting objects, falling objects that hits the player respawns back to level 1.
