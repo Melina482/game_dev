@@ -17,3 +17,6 @@ All of my game development activities.
 
 5. AI and Enemies
    - Same with number 4 with Attack Animation, Functionality and SFX. Added Enemies that when player collides it will take damage until 0 health and respawns.
+
+6. 3D Basics & Optimization
+   - Basic Controls and Mouse Movements.
