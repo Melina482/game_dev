@@ -20,3 +20,6 @@ All of my game development activities.
 
 6. 3D Basics & Optimization
    - Basic Controls and Mouse Movements.
+
+7. Act 4 Multiplayer (Partial)
+   - Still needs multiplayer/server
