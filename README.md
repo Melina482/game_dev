@@ -23,4 +23,4 @@ All of my game development activities.
 
 7. Act 4 Multiplayer (Finish)
    - Basic authentication handling, multiplayer through having a dedicated server but in a single project with 3 instances (2 client, 1server).
-   - Video here: [video](<2026-04-05 19-03-36.mkv>)
+   - Video here: [[video](<2026-04-05 19-03-36.mkv>)](https://drive.google.com/file/d/1OtVlFde5wFou_YkEXevfLjChGQPIk6xK/view?usp=sharing)
