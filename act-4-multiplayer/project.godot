@@ -15,9 +15,13 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 [application]
 
 config/name="Level Design"
-run/main_scene="res://scenes/game_scene.tscn"
-config/features=PackedStringArray("4.5", "Forward Plus")
+run/main_scene="uid://cyyf1q4tnm041"
+config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://assets/icon.svg"
+
+[autoload]
+
+ServerClientManager="*uid://bgjoo87pcp0hd"
 
 [rendering]
 
